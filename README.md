@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yacine Merabet -> @Yacine22 
 - 👀 I’m interested in Computer Sciences, Data Science and Embedded Systems
-- 🌱 I’m currently learning Image Processing
+- 🌱 I’m currently working as computer vision engineer
 - 💞️ I’m looking to collaborate on projects linked to my fields shown above 👆👆👆🤟
 - 📫 How to reach me ... by email to yacine.merabet22@gmail.com or by phone to +33767340210
 
